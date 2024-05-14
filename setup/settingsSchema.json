@@ -1,0 +1,35 @@
+{
+    "global": {
+        "guild_id": "592723696251174932",
+        "banner_refresh_time": 600,
+        "shop_id": 1
+    },
+    "economy": {
+        "work": {
+            "min": 5000,
+            "max": 15000,
+            "cooldown": 60000
+        },
+        "bonus": {
+            "min": 5000,
+            "max": 10000,
+            "cooldown": 60000
+        },
+        "crime": {
+            "chance": 50,
+            "min_balance": 100,
+            "max_percent": 25,
+            "cooldown": 60000
+        },
+        "pay": {
+            "comission": 2
+        },
+        "case": {
+            "min": 3000,
+            "max": 8000,
+            "min_compensation": 0.5,
+            "max_compensation": 1.1,
+            "price": 100
+        }
+    }
+}

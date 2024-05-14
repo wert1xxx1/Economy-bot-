@@ -1,0 +1,390 @@
+{
+    "cards": {
+        "hearts": [
+            {
+                "type": "heart",
+                "points": 11,
+                "emoji": "🂱"
+            },
+            {
+                "type": "heart",
+                "points": 2,
+                "emoji": "🂲"
+            },
+            {
+                "type": "heart",
+                "points": 3,
+                "emoji": "🂳"
+            },
+            {
+                "type": "heart",
+                "points": 4,
+                "emoji": "🂴"
+            },
+            {
+                "type": "heart",
+                "points": 5,
+                "emoji": "🂵"
+            },
+            {
+                "type": "heart",
+                "points": 6,
+                "emoji": "🂶"
+            },
+            {
+                "type": "heart",
+                "points": 7,
+                "emoji": "🂷"
+            },
+            {
+                "type": "heart",
+                "points": 8,
+                "emoji": "🂸"
+            },
+            {
+                "type": "heart",
+                "points": 9,
+                "emoji": "🂹"
+            },
+            {
+                "type": "heart",
+                "points": 10,
+                "emoji": "🂺"
+            },
+            {
+                "type": "heart",
+                "points": 10,
+                "emoji": "🂻"
+            },
+            {
+                "type": "heart",
+                "points": 10,
+                "emoji": "🂽"
+            },
+            {
+                "type": "heart",
+                "points": 10,
+                "emoji": "🂾"
+            }
+        ],
+        "diamonds": [
+            {
+                "type": "diamond",
+                "points": 11,
+                "emoji": "🃁"
+            },
+            {
+                "type": "diamond",
+                "points": 2,
+                "emoji": "🃂"
+            },
+            {
+                "type": "diamond",
+                "points": 3,
+                "emoji": "🃃"
+            },
+            {
+                "type": "diamond",
+                "points": 4,
+                "emoji": "🃄"
+            },
+            {
+                "type": "diamond",
+                "points": 5,
+                "emoji": "🃅"
+            },
+            {
+                "type": "diamond",
+                "points": 6,
+                "emoji": "🃆"
+            },
+            {
+                "type": "diamond",
+                "points": 7,
+                "emoji": "🃇"
+            },
+            {
+                "type": "diamond",
+                "points": 8,
+                "emoji": "🃈"
+            },
+            {
+                "type": "diamond",
+                "points": 9,
+                "emoji": "🃉"
+            },
+            {
+                "type": "diamond",
+                "points": 10,
+                "emoji": "🃊"
+            },
+            {
+                "type": "diamond",
+                "points": 10,
+                "emoji": "🃋"
+            },
+            {
+                "type": "diamond",
+                "points": 10,
+                "emoji": "🃍"
+            },
+            {
+                "type": "diamond",
+                "points": 10,
+                "emoji": "🃎"
+            }
+        ],
+        "clubs": [
+            {
+                "type": "club",
+                "points": 11,
+                "emoji": "🃑"
+            },
+            {
+                "type": "club",
+                "points": 2,
+                "emoji": "🃒"
+            },
+            {
+                "type": "club",
+                "points": 3,
+                "emoji": "🃓"
+            },
+            {
+                "type": "club",
+                "points": 4,
+                "emoji": "🃔"
+            },
+            {
+                "type": "club",
+                "points": 5,
+                "emoji": "🃕"
+            },
+            {
+                "type": "club",
+                "points": 6,
+                "emoji": "🃖"
+            },
+            {
+                "type": "club",
+                "points": 7,
+                "emoji": "🃗"
+            },
+            {
+                "type": "club",
+                "points": 8,
+                "emoji": "🃘"
+            },
+            {
+                "type": "club",
+                "points": 9,
+                "emoji": "🃙"
+            },
+            {
+                "type": "club",
+                "points": 10,
+                "emoji": "🃚"
+            },
+            {
+                "type": "club",
+                "points": 10,
+                "emoji": "🃛"
+            },
+            {
+                "type": "club",
+                "points": 10,
+                "emoji": "🃝"
+            },
+            {
+                "type": "club",
+                "points": 10,
+                "emoji": "🃞"
+            }
+        ],
+        "spades": [
+            {
+                "type": "spade",
+                "points": 11,
+                "emoji": "🂡"
+            },
+            {
+                "type": "spade",
+                "points": 2,
+                "emoji": "🂢"
+            },
+            {
+                "type": "spade",
+                "points": 3,
+                "emoji": "🂣"
+            },
+            {
+                "type": "spade",
+                "points": 4,
+                "emoji": "🂤"
+            },
+            {
+                "type": "spade",
+                "points": 5,
+                "emoji": "🂥"
+            },
+            {
+                "type": "spade",
+                "points": 6,
+                "emoji": "🂦"
+            },
+            {
+                "type": "spade",
+                "points": 7,
+                "emoji": "🂧"
+            },
+            {
+                "type": "spade",
+                "points": 8,
+                "emoji": "🂨"
+            },
+            {
+                "type": "spade",
+                "points": 9,
+                "emoji": "🂩"
+            },
+            {
+                "type": "spade",
+                "points": 10,
+                "emoji": "🂪"
+            },
+            {
+                "type": "spade",
+                "points": 10,
+                "emoji": "🂫"
+            },
+            {
+                "type": "spade",
+                "points": 10,
+                "emoji": "🂭"
+            },
+            {
+                "type": "spade",
+                "points": 10,
+                "emoji": "🂮"
+            }
+        ],
+        "hidden": "🂠"
+    },
+    "blackjack": {
+        "opened": false,
+        "min_bet": 100,
+        "max_value": 21,
+        "ace_points": 11,
+        "min_ace_points": 1,
+        "min_ace_after": 10,
+        "disable_double_after": 2,
+        "disable_surrend_after": 2,
+        "surrend_percent": 50,
+        "win": 150,
+        "ace_win": 100,
+        "player": {
+            "max_splits": 4,
+            "always_surrend": false,
+            "surrender_sum": 50
+        },
+        "dealer": {
+            "stand": 17
+        }
+    },
+    "slots": {
+        "min_bet": 100,
+        "max_spins": 5,
+        "delay_spins": 250,
+        "wait_after_spins": 1000,
+        "double_match_multiplier": 2,
+        "triple_match_multiplier": 3,
+        "items": [
+            {
+                "emoji": "🍋",
+                "multiplier": 0.25
+            },
+            {
+                "emoji": "🍒",
+                "multiplier": 0.5
+            },
+            {
+                "emoji": "🍌",
+                "multiplier": 0.62
+            },
+            {
+                "emoji": "🍐",
+                "multiplier": 0.65
+            },
+            {
+                "emoji": "💵",
+                "multiplier": 0.7
+            },
+            {
+                "emoji": "🍎",
+                "multiplier": 0.81
+            },
+            {
+                "emoji": "🥭",
+                "multiplier": 0.9
+            },
+            {
+                "emoji": "💯",
+                "multiplier": 1
+            },
+            {
+                "emoji": "💍",
+                "multiplier": 1.5
+            },
+            {
+                "emoji": "🍍",
+                "multiplier": 1.75
+            }
+        ]
+    },
+    "casino": {
+        "min_bet": 100,
+        "points": [
+            {
+                "point": 70,
+                "multiplier": 0.2
+            },
+            {
+                "point": 80,
+                "multiplier": 1.3
+            },
+            {
+                "point": 90,
+                "multiplier": 2
+            },
+            {
+                "point": 95,
+                "multiplier": 2.3
+            },
+            {
+                "point": 100,
+                "multiplier": 10
+            }
+        ]
+    },
+    "coinflip": {
+        "min_bet": 100
+    },
+    "roulette": {
+        "single": {
+            "multiplier": 36
+        },
+        "dozens": {
+            "multiplier": 3
+        },
+        "halves": {
+            "multiplier": 2
+        },
+        "oddoreven": {
+            "multiplier": 2
+        },
+        "colours": {
+            "multiplier": 2
+        },
+        "min_bet": 100
+    }
+}
